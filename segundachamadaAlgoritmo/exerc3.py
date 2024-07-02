@@ -1,5 +1,5 @@
 '''faça um programa que leia 8 numeros e informe a soma e a media dos numeros'''
-numeros = list()
+numeros = []
 soma = 0
 cont = 0
 for i in range(8):
